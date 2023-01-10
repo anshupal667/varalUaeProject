@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/varalUaeProject/static/css/main.abd64e84.css",
+    "main.js": "/varalUaeProject/static/js/main.8eda34f9.js",
+    "static/js/787.c95b9cb5.chunk.js": "/varalUaeProject/static/js/787.c95b9cb5.chunk.js",
+    "static/media/logo.svg": "/varalUaeProject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/varalUaeProject/index.html",
+    "main.abd64e84.css.map": "/varalUaeProject/static/css/main.abd64e84.css.map",
+    "main.8eda34f9.js.map": "/varalUaeProject/static/js/main.8eda34f9.js.map",
+    "787.c95b9cb5.chunk.js.map": "/varalUaeProject/static/js/787.c95b9cb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.8eda34f9.js"
+  ]
+}
